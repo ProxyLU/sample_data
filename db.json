@@ -1,11 +1,24 @@
 {
-  "posts": [
+  "accounts": [
     {
-      "id": 1,
-      "title": "hello"
+      "name": "Ava",
+      "balance": 230
+    }, 
+    {
+      "name": "Bob",
+      "balance": 150
+    },
+    {
+      "name": "Cathy",
+      "balance": 750
+    },
+    {
+      "name": "Derek",
+      "balance": 200
+    },
+    {
+      "name": "Emily",
+      "balance": 350
     }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  ]
 }
